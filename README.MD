@@ -46,7 +46,7 @@
 <a id="whats-new"></a>
 ## What's New
 
-- `2026-04-16`: CASCADE is open-sourced.
+- `2026-04-28`: CASCADE is open-sourced.
 
 <a id="quick-start"></a>
 ## Quick Start
