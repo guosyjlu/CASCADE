@@ -1,0 +1,22 @@
+numpy==2.0.2
+Levenshtein==0.27.3
+datasets==3.1.0
+openai==2.14.0
+mcp==1.25.0
+scikit-learn==1.7.0
+scipy==1.15.0
+transformers==4.57.3
+vllm==0.10.1.1
+func_timeout
+wandb
+
+# Local RAG for deep search tasks
+pyserini==0.17.0
+faiss-gpu-cu11==1.13.1
+
+# ALFWorld and ScienceWorld
+alfworld==0.4.2
+scienceworld==1.2.3
+
+# REINFORCE
+peft==0.15.1
