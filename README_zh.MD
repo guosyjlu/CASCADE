@@ -22,7 +22,8 @@
 <a href="#资源下载">资源下载</a> |
 <a href="#实验复现">实验复现</a> |
 <a href="#通过-cascade-自定义部署时学习环境">自定义环境</a> |
-<a href="#代码结构">代码结构</a>
+<a href="#代码结构">代码结构</a> |
+<a href="#引用">引用</a>
 </p>
 
 <table>
@@ -371,4 +372,19 @@ CASCADE/
 ├─ scripts/                # vLLM 部署和实验脚本
 ├─ Figures/
 └─ requirements.txt
+```
+
+<a id="引用"></a>
+## 引用
+如果您觉得我们的工作对您有用，请考虑引用我们的论文：
+```
+@misc{guo2026cascadecasebasedcontinualadaptation,
+      title={CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment}, 
+      author={Siyuan Guo and Yali Du and Hechang Chen and Yi Chang and Jun Wang},
+      year={2026},
+      eprint={2605.06702},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2605.06702}, 
+}
 ```
