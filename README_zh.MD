@@ -7,8 +7,8 @@
 <a href="https://physionet.org/content/mimic-iv-ext-dtlbench/1.0.0/">
 🫀 DTLBench（即将发布）
 </a> |
-<a href="https://arxiv.org/abs/xxxx">
-📄 论文（即将发布）
+<a href="https://arxiv.org/abs/2605.06702">
+📄 论文
 </a>
 </p>
 
@@ -46,6 +46,7 @@
 <a id="最新动态"></a>
 ## What's New
 
+- `2026-05-11`：CASCADE论文已通过arXiv发布。
 - `2026-04-28`：CASCADE正式开源。
 
 <a id="快速开始"></a>
