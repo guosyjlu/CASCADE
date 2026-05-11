@@ -7,8 +7,8 @@
 <a href="https://physionet.org/content/mimic-iv-ext-dtlbench/1.0.0/">
 🫀 DTLBench (To be released)
 </a> |
-<a href="https://arxiv.org/abs/xxxx">
-📄 Paper (To be released)
+<a href="https://arxiv.org/abs/2605.06702">
+📄 Paper
 </a>
 </p>
 
@@ -46,6 +46,7 @@
 <a id="whats-new"></a>
 ## What's New
 
+- `2026-05-11`: CASCADE paper is available via arXiv.
 - `2026-04-28`: CASCADE is open-sourced.
 
 <a id="quick-start"></a>
