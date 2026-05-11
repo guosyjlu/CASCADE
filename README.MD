@@ -23,6 +23,7 @@
 <a href="#experiment-reproduction">Experiment Reproduction</a> |
 <a href="#customized-environment-for-deployment-time-learning-via-cascade">Customized Environment</a> |
 <a href="#code-structure">Code Structure</a>
+<a href="#citation">Citation</a>
 </p>
 
 <table>
@@ -370,4 +371,20 @@ CASCADE/
 ├─ scripts/                # scripts for vLLM deployment and experiments
 ├─ Figures/
 └─ requirements.txt
+```
+
+<a id="citation"></a>
+## Citation
+
+Please consider citing our paper if you find it useful.
+```
+@misc{guo2026cascadecasebasedcontinualadaptation,
+      title={CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment}, 
+      author={Siyuan Guo and Yali Du and Hechang Chen and Yi Chang and Jun Wang},
+      year={2026},
+      eprint={2605.06702},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2605.06702}, 
+}
 ```
